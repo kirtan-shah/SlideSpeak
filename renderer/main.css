@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200;500&display=swap');
+
+body {
+    background: #d9d9d9;
+    text-align: center;
+}
+
+canvas {
+    display: inline;
+}
+
+#output {
+    transition: 400ms all;
+    font-family: 'Roboto Mono', Consolas;
+}

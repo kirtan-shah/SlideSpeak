@@ -1,0 +1,21 @@
+{
+  "name": "PresentationBuilder",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Kirtan Shah",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^11.2.0"
+  },
+  "dependencies": {
+    "@google-cloud/speech": "^4.2.0",
+    "@pdf-lib/fontkit": "^1.1.1",
+    "bing-image-scraper": "^0.0.1",
+    "downloadjs": "^1.4.7",
+    "node-record-lpcm16": "^1.0.1",
+    "pdf-lib": "^1.15.0"
+  }
+}
