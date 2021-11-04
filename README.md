@@ -3,4 +3,4 @@
 ## Demo
 https://www.youtube.com/watch?v=b_5JbFkE710
 
-![Presentation Preview](example.png)
+[![Presentation Preview](example.png)](https://www.youtube.com/watch?v=b_5JbFkE710)
